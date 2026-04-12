@@ -56,8 +56,8 @@ The project is deployed using **Netlify** for fast and reliable hosting.
 
 Feel free to connect with me:
 
-- LinkedIn: (Add your LinkedIn link)
-- GitHub: (Add your GitHub profile link)
+- LinkedIn: https://www.linkedin.com/in/mariyam-inamdar-69a3982b5/
+- GitHub: https://github.com/Mariyam-I
 
 ---
 
